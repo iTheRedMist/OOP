@@ -89,17 +89,21 @@ namespace LAB6
             try
             {
                 Console.Write("Введіть перше число: ");
-                double a = Convert.ToDouble(Console.ReadLine);
+                int a = Convert.ToInt32(Console.ReadLine());
 
                 Console.Write("Введіть друге число: ");
-                double b = Convert.ToDouble(Console.ReadLine);
+                int b = Convert.ToInt32(Console.ReadLine());
 
                 double div = a / b;
-                Console.WriteLine($"Результат: {div}");
+                Console.WriteLine("Результат: " + div);
             }
             catch (DivideByZeroException)
             {
                 Console.WriteLine("Помилка: поділ на нуль!");
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Помилка: некоректний формат числа!");
             }
         }
         static void Main(string[] args)
