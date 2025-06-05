@@ -1,4 +1,6 @@
-﻿namespace LAB10
+﻿using System.Text;
+
+namespace LAB10
 {
     class Program
     {
@@ -6,18 +8,19 @@
 
         public static void Main()
         {
+            Console.OutputEncoding = Encoding.UTF8;
             bool running = true;
 
             while (running)
             {
                 Console.WriteLine("\n=== МЕНЮ ===");
-                Console.WriteLine("1. Оставить заявку");
-                Console.WriteLine("2. Обработать первую заявку");
-                Console.WriteLine("3. Просмотреть приоритетную заявку");
-                Console.WriteLine("4. Просмотреть все заявки");
-                Console.WriteLine("5. Рассчитать ежемесячный платёж по ипотеке");
-                Console.WriteLine("0. Выйти");
-                Console.Write("Выберите действие: ");
+                Console.WriteLine("1. Залишити заявку");
+                Console.WriteLine("2. Обробити першу заявку");
+                Console.WriteLine("3. Подивитись пріорітетну заявку");
+                Console.WriteLine("4. Подивитись всі заявки");
+                Console.WriteLine("5. Розрахувати щомісячний платіж за іпотекою");
+                Console.WriteLine("0. Вийти");
+                Console.Write("Введіть дію: ");
                 string choice = Console.ReadLine();
 
                 switch (choice)
@@ -41,7 +44,7 @@
                         running = false;
                         break;
                     default:
-                        Console.WriteLine("Некорректный ввод. Попробуйте ещё раз...");
+                        Console.WriteLine("Некоректний ввод. Спробуйте ще раз!");
                         break;
                 }
             }
@@ -64,7 +67,7 @@
             }
             else
             {
-                Console.WriteLine("Очередь пуста.");
+                Console.WriteLine("Черга порожня.");
             }
         }
 
@@ -72,11 +75,11 @@
         {
             if (mortgageApplications.Count > 0)
             {
-                Console.WriteLine($"Следующая заявка: {mortgageApplications.Peek()}");
+                Console.WriteLine($"Наступна заявка: {mortgageApplications.Peek()}");
             }
             else
             {
-                Console.WriteLine("Очередь пуста.");
+                Console.WriteLine("Черга порожня.");
             }
         }
 
@@ -92,7 +95,7 @@
             }
             else
             {
-                Console.WriteLine("Очередь пуста.");
+                Console.WriteLine("Черга порожня.");
             }
         }
 
@@ -116,11 +119,11 @@
                 decimal monthlyPayment = P * (r * (decimal)Math.Pow((double)(1 + r), n)) / ((decimal)Math.Pow((double)(1 + r), n) - 1);
                 monthlyPayment = Math.Round(monthlyPayment, 2);
 
-                Console.WriteLine($"Ежемесячный платёж, составляет: {monthlyPayment} грн");
+                Console.WriteLine($"Щомісячний платіж за іпотекою: {monthlyPayment} грн");
             }
             catch (Exception ex)
             {
-                Console.WriteLine("Ошибка ввода: " + ex.Message);
+                Console.WriteLine("Помилка вводу: " + ex.Message);
             }
         }
     }
