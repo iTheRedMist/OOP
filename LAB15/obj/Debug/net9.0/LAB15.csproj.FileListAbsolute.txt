@@ -1,0 +1,15 @@
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\bin\Debug\net9.0\LAB15.exe
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\bin\Debug\net9.0\LAB15.deps.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\bin\Debug\net9.0\LAB15.runtimeconfig.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\bin\Debug\net9.0\LAB15.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\bin\Debug\net9.0\LAB15.pdb
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.AssemblyInfoInputs.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.AssemblyInfo.cs
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.csproj.CoreCompileInputs.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.sourcelink.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\refint\LAB15.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.pdb
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\LAB15.genruntimeconfig.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB15\obj\Debug\net9.0\ref\LAB15.dll
