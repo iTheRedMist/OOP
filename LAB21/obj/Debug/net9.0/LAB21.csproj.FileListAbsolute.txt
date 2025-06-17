@@ -1,0 +1,15 @@
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\bin\Debug\net9.0\LAB21.exe
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\bin\Debug\net9.0\LAB21.deps.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\bin\Debug\net9.0\LAB21.runtimeconfig.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\bin\Debug\net9.0\LAB21.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\bin\Debug\net9.0\LAB21.pdb
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.AssemblyInfoInputs.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.AssemblyInfo.cs
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.csproj.CoreCompileInputs.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.sourcelink.json
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\refint\LAB21.dll
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.pdb
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\LAB21.genruntimeconfig.cache
+C:\Users\Lunohod 8425\Desktop\Учеба\ООП\OOP\LAB21\obj\Debug\net9.0\ref\LAB21.dll
